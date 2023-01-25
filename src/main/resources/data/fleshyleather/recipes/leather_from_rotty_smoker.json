@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "cookingtime": 150,
+  "experience": 0.3,
+  "ingredient": {
+    "item": "fleshyleather:rotten_leather"
+  },
+  "result": "minecraft:leather"
+}
