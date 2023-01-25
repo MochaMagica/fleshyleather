@@ -1,4 +1,4 @@
-My first Minecraft mod. Mostly made it to prove to myself I could actually produce something and to kind of learn how github works. This idea for a mod exists in multiple places, but this is my version. 
+My first Minecraft mod. Mostly made it to prove to myself I could actually produce something and to kind of learn how github works. This idea for a mod exists in multiple places, but this is my version. Amazing art by me.
 
 Crafting
  
